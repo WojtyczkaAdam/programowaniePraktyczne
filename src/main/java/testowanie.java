@@ -41,6 +41,8 @@ public class testowanie {
         double srednia = suma/tab.length;
         System.out.println("Srednia liczb wynosi: "+srednia);
 
+        System.out.println("======================");
+
 
 
     }
